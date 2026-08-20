@@ -45,14 +45,15 @@ I am currently diving deep into computer science and engineering, with a strong 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/ishikamahto8/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishikamahto8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+
+  <a href="https://github.com/ishikamahto8">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ishikamahto8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/ishikamahto/github-readme-streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikamahto8&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+  <a href="https://github.com/ishikamahto8">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=ishikamahto8&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
-  
+
 </div>
 
 ---
