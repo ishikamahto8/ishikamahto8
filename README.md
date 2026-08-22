@@ -29,6 +29,7 @@ I am currently diving deep into computer science and engineering, with a strong 
 </details>
 
 ---
+ [![An image of @ishikamahto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishikamahto)](https://holopin.io/@ishikamahto)
 
 ### 💻 Tech Arsenal
 
@@ -57,7 +58,9 @@ I am currently diving deep into computer science and engineering, with a strong 
 </div>
 
 ---
-![snake](https://raw.githubusercontent.com/ishikamahto8/ishikamahto8/output/snake-purple.svg)
+
+![Space Shooter contribution game](https://raw.githubusercontent.com/ishikamahto8/ishikamahto8/output/space-shooter.gif)
+
 
 ### 🤝 Let's Connect
 
