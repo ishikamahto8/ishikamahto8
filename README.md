@@ -13,6 +13,9 @@
 </div>
 
 ---
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ishikamahto8&label=PROFILE%20VIEWS&color=b34780&style=for-the-badge"/>
+</div>
 
 ### 🚀 About My Journey
 
@@ -29,6 +32,7 @@ I am currently diving deep into computer science and engineering, with a strong 
 </details>
 
 ---
+
  [![An image of @ishikamahto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishikamahto)](https://holopin.io/@ishikamahto)
 
 ### 💻 Tech Arsenal
@@ -55,6 +59,10 @@ I am currently diving deep into computer science and engineering, with a strong 
     <img height="180em" src="https://streak-stats.demolab.com/?user=ishikamahto8&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishikamahto8&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
