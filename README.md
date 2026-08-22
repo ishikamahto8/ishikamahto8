@@ -57,6 +57,7 @@ I am currently diving deep into computer science and engineering, with a strong 
 </div>
 
 ---
+![snake](https://raw.githubusercontent.com/ishikamahto8/ishikamahto8/output/snake-purple.svg)
 
 ### 🤝 Let's Connect
 
