@@ -1,84 +1,64 @@
 <div align="center">
-  
-  # ⚡ Hello, World! I'm Ishika Mahto
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Core+Student;AI+%26+Cybersecurity+Enthusiast;Hardware-Software+Integrator;Building+Accessible+Tech+Solutions;Aspiring+Tech+Entrepreneur" alt="Typing SVG" />
-  </a>
 
-  <br />
-  
-  *Transitioning from writing code to engineering impactful solutions.*
+  <h1>Ishika Mahto</h1>
+  <h3>Software Engineer · AI & Cybersecurity · Product Builder</h3>
+
+  <p>
+    <a href="https://linkedin.com/in/ishika-mahto-93bb7036a/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ishikamahto9@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/ishikamahto8?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    </a>
+  </p>
 
 </div>
 
 ---
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ishikamahto8&label=PROFILE%20VIEWS&color=b34780&style=for-the-badge"/>
-</div>
 
-### 🚀 About My Journey
+### ⚡ About
 
-I am currently diving deep into computer science and engineering, with a strong focus on bridging the gap between software development and real-world utility. My work spans across digital environments and physical hardware, always with an eye toward market opportunities and efficiency.
+B.Tech CSE undergrad focused on building production-ready software, autonomous AI systems, and security-first architectures. I care about clean system design, writing code that scales, and turning technical ideas into usable products.
 
-<details>
-  <summary><b>✨ What I'm currently focused on (Click to expand)</b></summary>
-  <br/>
-  <ul>
-    <li>🛡️ <b>Cybersecurity & AI:</b> Building autonomous systems like agentic honeypots for advanced threat detection and intelligence gathering.</li>
-    <li>🔌 <b>Hardware Integration:</b> Bridging physical and digital worlds using Arduino platforms and custom electronics.</li>
-    <li>💡 <b>Entrepreneurship:</b> Researching and developing solutions to tackle electricity wastage and improve navigation for the visually impaired.</li>
-  </ul>
-</details>
+* 🛡️ **Cybersecurity & AI:** Developing autonomous defense systems and agentic honeypots for threat detection and intelligence gathering.
+* ⚙️ **Software Engineering:** Writing efficient backend logic, automating workflows, and deploying cloud-ready applications.
+* 🚀 **Product & Entrepreneurship:** Building software solutions for high-impact problems in accessibility and resource optimization.
 
 ---
 
- [![An image of @ishikamahto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishikamahto)](https://holopin.io/@ishikamahto)
-
-### 💻 Tech Arsenal
+### 💻 Tech Stack
 
 <div align="center">
-  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,arduino,git,github,linux,aws&perline=10" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,git,github,linux,aws" alt="Tech Stack"/>
   </a>
-  
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Overview
 
 <div align="center">
 
   <a href="https://github.com/ishikamahto8">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ishikamahto8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=ishikamahto8&show_icons=true&theme=radical&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=36BCF7&icon_color=FF4B82" alt="GitHub Stats" />
   </a>
-
   <a href="https://github.com/ishikamahto8">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=ishikamahto8&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ishikamahto8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Top Languages" />
   </a>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishikamahto8&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishikamahto8&theme=github_dark" width="98%" alt="Contribution Graph" />
 </div>
 
 ---
 
-![Space Shooter contribution game](https://raw.githubusercontent.com/ishikamahto8/ishikamahto8/output/space-shooter.gif)
-
-
-### 🤝 Let's Connect
-
 <div align="center">
-  <p>Always open to discussing industry events, startup ideation, or tech collaborations.</p>
-  
-  <a href="https://linkedin.com/in/ishika-mahto-93bb7036a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ishikamahto9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <p><b>Open to software engineering internships, security research, and startup collaborations.</b></p>
+  <p>📫 <a href="mailto:ishikamahto9@gmail.com">ishikamahto9@gmail.com</a></p>
 </div>
