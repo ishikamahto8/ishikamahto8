@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Ishika Mahto</h1>
-  <h3>Software Engineer · AI & Cybersecurity · Product Builder</h3>
+  <h3>Software Engineer · AI & Cybersecurity Systems · Backend Architecture</h3>
 
   <p>
     <a href="https://linkedin.com/in/ishika-mahto-93bb7036a/">
@@ -19,27 +19,42 @@
 
 ---
 
-### ⚡ About
+### ⚡ Engineering Profile
 
-B.Tech CSE undergrad focused on building production-ready software, autonomous AI systems, and security-first architectures. I care about clean system design, writing code that scales, and turning technical ideas into usable products.
+Computer Science & Engineering undergraduate focused on architecting scalable backend services, autonomous AI pipelines, and security-first software systems. Experienced in designing clean RESTful APIs, relational data models, and containerized cloud deployments built for production environments.
 
-* 🛡️ **Cybersecurity & AI:** Developing autonomous defense systems and agentic honeypots for threat detection and intelligence gathering.
-* ⚙️ **Software Engineering:** Writing efficient backend logic, automating workflows, and deploying cloud-ready applications.
-* 🚀 **Product & Entrepreneurship:** Building software solutions for high-impact problems in accessibility and resource optimization.
+| Domain | Core Engineering Focus | Technical Approach |
+| :--- | :--- | :--- |
+| **🛡️ AI & Cybersecurity** | Autonomous Defense & Threat Intelligence | Designing agentic AI honeypots, automated anomaly detection pipelines, and secure authentication workflows. |
+| **⚙️ Backend & APIs** | Scalable Microservices & System Design | Building high-concurrency REST APIs, asynchronous task queues, and optimized relational database schemas. |
+| **☁️ Cloud & DevOps** | Reproducible Infrastructure & CI/CD | Containerizing multi-service applications, managing Linux environments, and automating cloud deployments. |
 
 ---
 
-### 💻 Tech Stack
+### 💻 Technical Stack & Infrastructure
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,git,github,linux,aws" alt="Tech Stack"/>
-  </a>
+
+| Category | Technologies | Core Competencies |
+| :--- | :---: | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" alt="Languages" /> | Memory management, OOP, asynchronous programming, type-safe development, and algorithmic optimization. |
+| **Backend & Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs,tailwind" alt="Frameworks" /> | RESTful API design, microservice orchestration, server-side rendering, and responsive UI engineering. |
+| **Data & Persistence** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,redis" alt="Databases" /> | Relational schema normalization, complex SQL querying, ORM integration, and in-memory caching. |
+| **Cloud, DevOps & Security** | <img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github,postman" alt="DevOps" /> | Container orchestration, Linux shell scripting, version control workflows, and API testing/auditing. |
+
 </div>
 
 ---
 
-### 📊 GitHub Overview
+### 🧠 Development Standards
+
+* **Architecture First:** Decoupled service layers, modular codebases, and strict separation of concerns.
+* **Security by Design:** Input validation, least-privilege access control, rate limiting, and encrypted data flows.
+* **Performance & Scalability:** Indexing high-read database tables, minimizing API payload latency, and writing non-blocking I/O operations.
+
+---
+
+### 📊 GitHub Telemetry
 
 <div align="center">
 
@@ -53,12 +68,12 @@ B.Tech CSE undergrad focused on building production-ready software, autonomous A
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishikamahto8&theme=github_dark" width="98%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishikamahto8&theme=github_dark" width="96%" alt="Contribution Summary" />
 </div>
 
 ---
 
 <div align="center">
-  <p><b>Open to software engineering internships, security research, and startup collaborations.</b></p>
-  <p>📫 <a href="mailto:ishikamahto9@gmail.com">ishikamahto9@gmail.com</a></p>
+  <p><b>Open to Software Engineering Internships, Backend/AI Engineering Roles, and Security Research.</b></p>
+  <p>📫 Direct Contact: <a href="mailto:ishikamahto9@gmail.com"><b>ishikamahto9@gmail.com</b></a></p>
 </div>
